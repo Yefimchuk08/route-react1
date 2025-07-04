@@ -22,7 +22,7 @@ nav a:hover{
   background-color: rgb(116, 187, 211);
 }
 #root {
-  max-width: 1280px;
+  /* max-width: 1280px; */
   margin: 0 auto;
   text-align: center;
 }
